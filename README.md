@@ -1,6 +1,7 @@
 # GitInspect
 
-!written in python 2.7
+!written in python 2.7.
+
 An OSINT tool to search thru all specific user's github repositories for specific string.
 As we know sometimes when you compile a program , your computers specific info such as program directories can still be seen inside(sometimes a user forgets to remove some import comments or information from the tool).
 
