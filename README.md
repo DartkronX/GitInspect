@@ -5,7 +5,7 @@ As we know sometimes when you compile a program , your computers specific info s
 
 This tool gets a list of all users repositories from github api , downloads them and helps you search for specific strings in all repositories and all commits .
 
-!# Usage :
+# Usage :
 
 ! the terminal should be open in the same directory(where we download all the projects/repositories) the tool is and runned from there !
 
