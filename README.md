@@ -7,15 +7,15 @@ This tool gets a list of all users repositories from github api , downloads them
 
 Usage :
 
-#! the terminal should be open in the same directory(where we download all the projects/repositories) the tool is and runned from there !
+! the terminal should be open in the same directory(where we download all the projects/repositories) the tool is and runned from there !
 
-# gitinspect.py -d -u Dartkronx //// Downloads all user's repositories to current directory !!! This is the first step before searching for a string
+ gitinspect.py -d -u Dartkronx //// Downloads all user's repositories to current directory !!! This is the first step before searching for a string
 
-# gitinspect.py -u Dartkronx -s "StringToSearchFor" /// Get list of repositories from the web(api.github.com/users/user/repos) , and search for string(not case sensitive)
+ gitinspect.py -u Dartkronx -s "StringToSearchFor" /// Get list of repositories from the web(api.github.com/users/user/repos) , and search for string(not case sensitive)
 
-# gitinspect.py -s "StringToSearchFor" /// Search for a string in the git Directories you already downloaded (current location)(doesnt check users gethub api for proper list)
+ gitinspect.py -s "StringToSearchFor" /// Search for a string in the git Directories you already downloaded (current location)(doesnt check users gethub api for proper list)
 
-#! the terminal should be open in the same directory(where we download all the projects/repositories) the tool is and runned from there !
+! the terminal should be open in the same directory(where we download all the projects/repositories) the tool is and runned from there !
 
 Can add a better graph for the info gathered later.
 
